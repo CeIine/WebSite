@@ -1,4 +1,4 @@
-##Site hébergé sur Azure
+Site hébergé sur Azure
 
 1. Création d'une WebApp 
 2. Ouvrir un terminal bash
